@@ -13,7 +13,7 @@ int main() {
     float pib1;
     int pontosturisticos1;
 
-        //Variaves da carta 2
+        //Variaveis da carta 2
 
     char estado2;
     char codigo2[10];
@@ -74,7 +74,7 @@ int main() {
     scanf("%d", &pontosturisticos2);
 
     //Exibição e Dados
-    
+
     //Exibição da Carta 1
     printf("\n=============================\n");
     printf("=== carta 1 ===\n");
