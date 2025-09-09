@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 //Desafio do Supertrunfo (Amador)
 
 int main() {
@@ -76,6 +77,7 @@ int main() {
     //Exibição e Dados
 
     //Exibição da Carta 1
+    
     printf("\n=============================\n");
     printf("=== carta 1 ===\n");
     printf("Estado: %c\n", estado1);
