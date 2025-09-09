@@ -74,7 +74,8 @@ int main() {
     scanf("%d", &pontosturisticos2);
 
     //Exibição e Dados
-
+    
+    //Exibição da Carta 1
     printf("\n=============================\n");
     printf("=== carta 1 ===\n");
     printf("Estado: %c\n", estado1);
@@ -85,7 +86,7 @@ int main() {
     printf("PIB: %.2f\n", pib1);
     printf("Numero de Pontos Turísticos: %d\n\n", pontosturisticos1);
 
-    //Exibição da Carta A02.
+    //Exibição da Carta 2
     
     printf("=== carta 2 ===\n");
     printf("Estado: %c\n", estado2);
